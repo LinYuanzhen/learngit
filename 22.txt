@@ -2,3 +2,5 @@ This is learngit
 试试直接pull
 
 other man
+
+some changes
