@@ -3,8 +3,4 @@ This is learngit
 
 other man
 
-some changes
-
-test for idea
-
-345345345
+said it's important too
