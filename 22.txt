@@ -1,5 +1,14 @@
 This is learngit
 试试直接pull
 
+<<<<<<< HEAD
 
 some changesssss22222
+=======
+other man changed again
+let's try again
+
+change again1231
+
+6667777
+>>>>>>> a222c766ff0991d8722c7e8bfb34c9f44fccbc02
